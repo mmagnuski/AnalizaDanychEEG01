@@ -24,7 +24,7 @@ end
 
 % jeżeli podano epoki jako nazwę warunku
 if ischar(epoki)
-	epoki = find(epoch_centering_events(EEG, epoki));
+	[temp, epoki] = find(epoch_centering_events(EEG, epoki));
 end
 
 if ~iscomp
