@@ -4,6 +4,9 @@ Wprowadzające zajęcia opisujące przygotowanie danych EEG do analizy oraz pods
 ## Tutoriale
 Tutoriale wideo można znaleźć [tutaj](https://www.dropbox.com/sh/usn2ejdvoixbox5/AAANdVGcrzy1fp-T4NLNg3I6a?dl=0). Hasło do tego folderu to `apsikmopsik`.
 
+## Dane dodatkowe
+Poza danymi znajdującymi się na tym repozytorium będziemy korzystać też z danych [z Dropboxa](https://www.dropbox.com/sh/zqv2uetvczffjyk/AACGBG1AtNRNotbOy95sFsdia?dl=0).
+
 ## Nauka programowania w Matlabie
 Programowanie nie będzie w centrum zainteresowań tego kursu, ale jeżeli poważnie myślicie o analizie danych neuro:
 - Matlab jest obecnie najpopularniejszym narzędziem do analizy danych EEG/MEG (i całej reszty elektrofizjologii), fMRI i innych. 
